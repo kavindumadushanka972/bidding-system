@@ -35,3 +35,4 @@ After connecting,
   * If another client bids higher than your currently bidding item, you get a message in terminal.
   * The word "quit" can be entered(without quotes) at any point in the program to exit it.
 
+<img src="https://github.com/kavindumadushanka972/bidding-system/blob/master/1.PNG">
